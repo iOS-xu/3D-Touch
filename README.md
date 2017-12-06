@@ -1,2 +1,2 @@
 # 3D-Touch
-simple demo of 3D Touch
+Simple demo of 3D Touch
